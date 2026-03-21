@@ -1,0 +1,1 @@
+In GitHub → Settings → Secrets:
